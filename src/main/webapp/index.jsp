@@ -17,7 +17,7 @@ cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>Student Registration Form</b></font></center>
+<center><font size=4><b>College Registration Form</b></font></center>
 </td>
 </tr>
 
@@ -52,11 +52,12 @@ id="personaladdress" size="30"></td>
 <td>City</td>
 <td><select name="City">
 <option value="-1" selected>select..</option>
-<option value="New Delhi">NEW DELHI</option>
+<option value="Bengaluru">BENGALURU</option>
 <option value="Mumbai">MUMBAI</option>
 <option value="Goa">GOA</option>
 <option value="Patna">PATNA</option>
-<option value="Patna">BANGALORE</option>
+<option value="New Delhi">NEW DELHI</option>
+<option value="Kolkata">KOLKATA</option>
 </select></td>
 </tr>
 
